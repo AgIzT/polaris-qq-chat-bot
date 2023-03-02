@@ -1,0 +1,9 @@
+BanWordFilePath：work\TalkData\BanWords.txt
+
+# Selenium驱动路径
+
+SeleniumDriverPath：C：\Program Files （x86）\Microsoft\Edge\Application\msedgedriver.exe
+
+#Selenium驱动名称 谷歌：webdriver.chrome.driver ，edge：webdriver.edge.driver 其他浏览器自己百度吧
+
+SeleniumDriver名称：webdriver.edge.driver
